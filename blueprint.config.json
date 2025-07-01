@@ -1,0 +1,6 @@
+{
+  "compiler": {
+    "type": "tact",
+    "target": "contracts/sample_jetton.tact"
+  }
+}
